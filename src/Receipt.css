@@ -1,0 +1,100 @@
+*{
+    font-size: 15px;
+}
+.wrap{
+
+    background-image: url('https://img.freepik.com/free-vector/abstract-blue-background_1048-1511.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+.data-div{
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.box-one {
+    margin: 20px;
+}
+.box-two{
+    margin: 20px;
+}
+.sub-box{
+   margin-left: 100px;
+   line-height: 27px;
+}
+.sub-box1{
+    margin-right: 200px;
+    line-height: 27px;
+ }
+.box-two p{
+    text-align: center;
+
+}
+
+table,td,th{
+    border: 2px solid black;
+    padding: 10px;
+}
+table{
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    width: 90%;
+}
+.detail-div{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.end-div{
+    margin-top: 20px;
+}
+.detail{
+   
+    display: flex;
+    margin-bottom: 20px;
+    margin-left: 100px;
+  
+    
+}
+.detail1{
+  width: 300px;
+  font-weight: bolder;
+}
+.detail2{
+    width:800px ;
+}
+.last-div{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.date{
+    display: flex;
+    line-height: 35px;
+}
+.end-div{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.date-align{
+    width: 200px;
+}
+ .btn{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding: 15px;
+  margin-top: 30px;
+  color: black;
+  background-color: red;
+  font-size: 23px;
+}

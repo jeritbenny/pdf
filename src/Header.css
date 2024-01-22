@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main-div{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.sub-div1{
+    margin: 10px;
+}
+.img{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+ 
+}
+.para{
+    margin-top: 0px;
+}
+
+
+.wrap-div{
+    display: flex;
+}
+.img-div{
+    margin: 10px;
+}
+.para-div{
+    margin: 10px;
+}
+.para-div h3{
+margin: 0;
+}
+.para-div h5{
+margin-top: 0;
+}
+.para-div p{
+    margin-top: 0;
+    }
+.div-para{
+    margin: 0;
+}
+.head{
+    text-align: center;
+}
